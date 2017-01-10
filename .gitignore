@@ -1,0 +1,4 @@
+.idea/
+skip_list.txt
+test_consume.py
+test_read_file_list.py
